@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module3_Task3", "Module3_Task3\Module3_Task3.csproj", "{00BB6675-0803-4CF9-93F4-3E5B227E69CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{873196E3-97DF-4D7D-810B-54BF20BEBE25}"
+	ProjectSection(SolutionItems) = preProject
+		settings.ruleset = settings.ruleset
+		stylecop.json = stylecop.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00BB6675-0803-4CF9-93F4-3E5B227E69CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BB6675-0803-4CF9-93F4-3E5B227E69CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BB6675-0803-4CF9-93F4-3E5B227E69CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BB6675-0803-4CF9-93F4-3E5B227E69CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2586236D-0D6A-4BFC-A2A5-C1719AC1C40A}
+	EndGlobalSection
+EndGlobal
